@@ -23,7 +23,7 @@ python3 visualization.py -i path-image -u path-label
 
 ### Results
 
-![alt text](https://github.com/loubna-msellek/shape-image-recognition/tree/main/resultats/visualisation_tool.png?raw=true)
+![alt text](https://github.com/loubna-msellek/shape-image-recognition/tree/main/resultats/visualization_tool.png?raw=true)
 
 
 
